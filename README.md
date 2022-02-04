@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leo6pon
+- 👋 Hi, I’m @leo6pon.
 - 👀 I’m interested in where computing will take humanity.
 - 🌱 I’m currently FINALLY learning Computer Science fundamentals, Machine Learning Software Engineering, and Data Science.
 - 💞️ I’m looking to collaborate on projects at the nexus of human advancement and computing.
