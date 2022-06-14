@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leo6pon.
-- 👀 I’m interested in where computing will take humanity.
-- 🌱 I’m privileged to an explorer in the world of Computer Science. 
-- 💞️ I’m looking to collaborate on projects at the nexus of human advancement and computing through Machine Learning, Software Engineering, and Data Science.
+- 👀 I’m interested in using computing to ascend humanity to unforseen heights of possibility and enlightenment.
+- 🌱 Privileged to an explorer in the world of Computer Science, I wish to collaborate, learn from others, and build products. 
+- 💞️ At the moment I am delving into Machine Learning, Software Engineering, and Data Science.
 - 📫 How to reach me: message me via github.
 
 <!---
@@ -19,3 +19,9 @@ Clean Code
 Clean Architectures
 Math of Machine Learning
 Competitive Machine Learning
+Networks
+Optimization
+Python
+C
+C++
+Java
