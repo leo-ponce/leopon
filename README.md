@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leo6pon.
-- 👀 I’m interested in using computing to ascend humanity to unforseen heights of possibility and enlightenment.
+- 👀 I’m interested in using computing to ascend humanity to unforseen heights of enlightenment.
 - 🌱 Privileged to an explorer in the world of Computer Science, I wish to collaborate, learn from others, and build products. 
-- 💞️ At the moment I am delving into Machine Learning, Software Engineering, and Data Science.
+- 💞️ At the moment I am delving into Product Management, Machine Learning, Software Engineering, and Data Science.
 - 📫 How to reach me: message me via github.
 
 <!---
