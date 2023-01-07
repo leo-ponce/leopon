@@ -25,3 +25,7 @@ Python
 C
 C++
 Java
+Machine language Learning
+Electrical Engineering
+Physics
+Mathamatics
