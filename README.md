@@ -3,6 +3,7 @@
 - 🌱 Privileged to an explorer in the world of Computer Science, I wish to collaborate, learn from others, and build products. 
 - 💞️ At the moment I am delving into Product Management, Machine Learning, Software Engineering, and Data Science.
 - 📫 How to reach me: message me via github.
+-🙏 I commited ro code daily for one year beginning 9/5/23
 
 <!---
 leo6pon/leo6pon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
